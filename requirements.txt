@@ -1,0 +1,18 @@
+# --- Procesamiento de Imágenes ---
+numpy
+opencv-python
+Pillow
+
+# --- Rendimiento y Compilación ---
+Cython
+setuptools
+
+# --- Visualización y Gráficas ---
+matplotlib
+seaborn
+pandas
+
+# --- Profiling (Mediciones de Rendimiento) ---
+line-profiler
+memory-profiler
+psutil
